@@ -45,7 +45,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Kalolo Chola Lemba**
+👤 ** **
 
 - GitHub: [@githubhandle](https://github.com/KayLemba)
 
